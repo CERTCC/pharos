@@ -41,7 +41,7 @@ The address of this function.
 
 =item B<exact_hash>
 
-The MD5 of the bytes of the function concatenated in flow order.
+The MD5 of the bytes of the function concatenated in address order.
 
 =item B<pic_hash>
 
